@@ -1,4 +1,4 @@
-About Node Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications
+Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications
 
 Node.js is an open source server environment Node.js is free Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.) Node.js uses JavaScript on the server
 
@@ -20,4 +20,4 @@ Single Threaded but Highly Scalable − Node.js uses a single threaded model wit
 
 No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.
 
-License − Node.js is released under the MIT license.
+
